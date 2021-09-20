@@ -1,3 +1,5 @@
+#RESULT-SHEAT
+
 $pkg update && pkg upgrade
 
 $pkg install python
